@@ -1,7 +1,8 @@
-Hand Gesture Controlled Presentation 🎤👋
+# Hand Gesture Controlled Presentation 🎤👋
 
 This project demonstrates a Python application for controlling presentation slides using hand gestures. By leveraging the cvzone library's HandTrackingModule, a real-time webcam feed detects hand landmarks and interprets specific gestures to interact with presentation slides.
-Features:
+
+**Features:**
 
     Hand gesture recognition: Utilizing the HandDetector class from cvzone, the application identifies hand landmarks and detects gestures for interaction.
     Presentation slide navigation: Gestures such as swiping left or right control the presentation slide navigation, enabling seamless transitions between slides.
